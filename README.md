@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><h1>Hi there 👋  Freeze Police ! 👮</h1></td>
-    <td><img src="police.gif" alt="Police GIF" width="200" /></td>
+    <td><img src="police.gif" alt="Police GIF" width="500" /></td>
   </tr>
 </table>
 
