@@ -30,8 +30,8 @@ In the second tab, you can get geographical information about crimes and years. 
 
 <table>
   <tr>
-    <td><img src="assets/dashboard1.png" alt="Dashboard 1" width="400" /></td>
-    <td><img src="assets/dashboard2.png" alt="Dashboard 2" width="400" /></td>
+    <td><img src="assets/dashboard1.png" alt="Dashboard 2" width="500" /></td>
+    <td><img src="assets/dashboard2.png" alt="Dashboard 1" width="500" /></td>
   </tr>
 </table>
 
