@@ -28,5 +28,13 @@ As the output of app.py, you can see two different graphs in two different tabs.
 
 In the second tab, you can get geographical information about crimes and years. On one side, you can see the names of the regions with the highest crime records to the lowest, depending on the selected year, while on the right side, you can see the geographical map with a heat map of this data shown on the folium.
 
+<table>
+  <tr>
+    <td><img src="assets/dashboard1.png" alt="Dashboard 1" width="400" /></td>
+    <td><img src="assets/dashboard2.png" alt="Dashboard 2" width="400" /></td>
+  </tr>
+</table>
+
+
 
 
