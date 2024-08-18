@@ -1,9 +1,7 @@
-# Hi there 👋  Freeze Police ! 👮  ![Police GIF](police.gif)
-
 <table>
   <tr>
     <td><h1>Hi there 👋  Freeze Police ! 👮</h1></td>
-    <td><img src="police.gif" alt="Police GIF" width="150" /></td>
+    <td><img src="police.gif" alt="Police GIF" width="200" /></td>
   </tr>
 </table>
 
