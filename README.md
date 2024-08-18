@@ -21,6 +21,7 @@ In this repository you can found the code of one of my portfolio project, "Crime
 You can find two different files in this project. The first is a jupyternotebook file to run on your local computer, and the second is the app.py code that is designed to publish the dashboard that I published on my portfolio site on pythonanywhere.com.  - https://onurdata.pythonanywhere.com/ -
 
 ✨⭐ app.py file and jupyter notebook file are in the codes file. In the assets file you can find the giff and pictures I used while making readme.md file ⭐✨
+The html of the folium maps in the second tab were created with the python codes in the folium_map.app file.
 
 
 
